@@ -1,0 +1,3 @@
+[run]
+include = succulent-pups/*
+omit = *migrations*
